@@ -6,3 +6,6 @@ Integrates on-device AI models MediaPipe and YOLOv11 to combine hand-tracking an
 - Added Nvidia Cuda Core usage.
 
 **Contributors: Nathan Tandory, Jordyn Kim, Bach Nguyen, Jay Savaliya**
+
+# How to Use
+
